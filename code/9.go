@@ -1,3 +1,4 @@
+// 回文数
 package main
 
 import (

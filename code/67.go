@@ -1,3 +1,4 @@
+// 二进制求和
 package main
 
 import (

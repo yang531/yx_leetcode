@@ -1,17 +1,13 @@
+// 下一个排列
 package main
 
 import (
-	"fmt"
 	"sort"
 )
 
 func nextPermutation(nums []int) []int {
 	sort.Ints(nums)
-	var back func(a []int, b int, c string)
-	back = func(a []int, b int, c string) {
-		
-	}
-	back(nums, 0, "")
+
 	return []int{}
 }
 

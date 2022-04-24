@@ -1,3 +1,4 @@
+// 括号生成
 package main
 
 import (

@@ -1,3 +1,4 @@
+// 实现 strStr()
 package main
 
 import (

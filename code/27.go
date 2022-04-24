@@ -1,3 +1,4 @@
+// 移除元素
 package main
 
 import (

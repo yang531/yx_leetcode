@@ -1,6 +1,6 @@
+// 合并两个有序列表
 package main
 
-//Definition for singly-linked list.
 type ListNode struct {
 	Val  int
 	Next *ListNode

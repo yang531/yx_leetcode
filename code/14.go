@@ -1,3 +1,4 @@
+// 最长公共前缀
 package main
 
 import (

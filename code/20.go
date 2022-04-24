@@ -1,3 +1,4 @@
+// 有效的括号
 package main
 
 import (

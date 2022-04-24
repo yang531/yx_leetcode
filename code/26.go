@@ -1,3 +1,4 @@
+// 删除有序数组中的重复项
 package main
 
 import (
