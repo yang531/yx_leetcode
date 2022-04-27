@@ -1,3 +1,8 @@
+// 在排序数组中查找元素的第一个和最后一个位置
+/*
+要求时间复杂度为O(n)
+searchRange 和 searchRange1使用不同的方法，searchRange1耗时更短
+*/
 package main
 
 import (
